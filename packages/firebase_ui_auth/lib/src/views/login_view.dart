@@ -105,7 +105,7 @@ class _LoginViewState extends State<LoginView> {
     if (widget.oauthButtonVariant == OAuthButtonVariant.icon_and_text) {
       return Column(
         mainAxisSize: MainAxisSize.min,
-        children: [const SizedBox(height: 16), ...oauthButtonsList],
+        children: [const SizedBox(height: 32), ...oauthButtonsList],
       );
     } else {
       return Row(
