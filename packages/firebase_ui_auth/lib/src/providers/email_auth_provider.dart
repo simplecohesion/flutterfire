@@ -60,10 +60,6 @@ class EmailAuthProvider
         signInWithCredential(credential);
         break;
       case AuthAction.signUp:
-        if (shouldUpgradeAnonymous) {
-          return linkWithCredential(credential);
-        }
-
         signUpWithCredential(credential);
         break;
       case AuthAction.link:
