@@ -1,3 +1,19 @@
+## 4.2.10
+
+ - **FIX**(auth,web): fix currentUser being null when using emulator or named instance ([#10565](https://github.com/firebase/flutterfire/issues/10565)). ([11e8644d](https://github.com/firebase/flutterfire/commit/11e8644df402a5abbb0d0c37714879272dec024c))
+
+## 4.2.9
+
+ - Update a dependency to the latest release.
+
+## 4.2.8
+
+ - Update a dependency to the latest release.
+
+## 4.2.7
+
+ - Update a dependency to the latest release.
+
 ## 4.2.6
 
  - **REFACTOR**: upgrade project to remove warnings from Flutter 3.7 ([#10344](https://github.com/firebase/flutterfire/issues/10344)). ([e0087c84](https://github.com/firebase/flutterfire/commit/e0087c845c7526c11a4241a26d39d4673b0ad29d))

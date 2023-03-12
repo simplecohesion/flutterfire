@@ -1,3 +1,28 @@
+## 1.1.16
+
+ - Update a dependency to the latest release.
+
+## 1.1.15
+
+ - **FIX**(ui_auth): fix ResponsivePage layout causing unexpected overflows ([#10533](https://github.com/firebase/flutterfire/issues/10533)). ([80c3c5ef](https://github.com/firebase/flutterfire/commit/80c3c5efbe329a780ae247da281d775f91125b56))
+ - **FIX**(ui_auth_google): bump google_sign_in version ([#10531](https://github.com/firebase/flutterfire/issues/10531)). ([782850d7](https://github.com/firebase/flutterfire/commit/782850d7912c79fbd3da5d96fda2cf3d844a11dc))
+
+## 1.1.14
+
+ - Update a dependency to the latest release.
+
+## 1.1.13
+
+ - Update a dependency to the latest release.
+
+## 1.1.12
+
+ - Update a dependency to the latest release.
+
+## 1.1.11
+
+ - Update a dependency to the latest release.
+
 ## 1.1.10
 
  - **REFACTOR**: upgrade project to remove warnings from Flutter 3.7 ([#10344](https://github.com/firebase/flutterfire/issues/10344)). ([e0087c84](https://github.com/firebase/flutterfire/commit/e0087c845c7526c11a4241a26d39d4673b0ad29d))
